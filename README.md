@@ -8,7 +8,7 @@ We set up the United Nations goal for 2030 in a plot then try to find solutions 
 
 ### Dataset used
 
-https://github.com/owid/co2-data
+https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
 
 ### Deployment
 
