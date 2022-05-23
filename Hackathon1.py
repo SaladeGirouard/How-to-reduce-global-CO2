@@ -121,7 +121,7 @@ with col2:
     st.write("\n")
     st.write("Ce qu'on vous propose c'est de jouer avec les différentes industries ci-bas.\n"
              "Nous vous laissons déterminer sur quelles industries nous pouvons taper pour\n"
-             "que demain soit un monde meilleur 💖\n")
+             "que demain soit un monde meilleur. 💖\n")
 
 
 st.write("                                                   ")
