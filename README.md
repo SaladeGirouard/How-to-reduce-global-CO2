@@ -1,4 +1,4 @@
-# hackhaton1
+# hackathon1
 
 ### About this project
 
