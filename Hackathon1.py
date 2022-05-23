@@ -195,7 +195,7 @@ with col1:
 with col2:   
     col2.write("Ce que nous constatons dans un premier temps dans le graphique ci-contre, c'est que l'Asie est le continent qui pollue le plus avec plus de 60% des émissions de CO2 mondiales en 2020 (la Chine a elle toute seule représente environ 30% des émission de CO2 dans le monde).")
     col2.write("\n")
-    col2.write("Vous voyez déjà la suite, on va vous proposer de diminuer l'impact des différents continents, mais avant d'établir une politique dictatoriale en Asie, il faut quand même se souvenir qu'il s'agit de l'usine du monde, ce qui fait qu'ils polluent également pour le plaisir de tous les autres continents")
+    col2.write("Vous voyez déjà la suite, on va vous proposer de diminuer l'impact des différents continents, mais avant d'établir une politique dictatoriale en Asie, il faut quand même se souvenir qu'il s'agit de l'usine du monde, ce qui fait qu'ils polluent également pour le plaisir de tous les autres continents.")
 
 
 
@@ -251,7 +251,7 @@ st.write("                                                   ")
 st.subheader("Réduire nos loisirs pour réduire l'émission de CO2 ?")
 
 ### TEXTE POUR PRESENTER LE GRAPHIQUE
-st.write("Le graphique ci-dessous va vous permettre de visualiser l'impact sur l'émission de CO2 mondial si jamais vous interdisez complètement de ces loisirs (ou si vous les doublez, petits filous !). Nous tenons à précisez que nous nous basons sur de vraies données pour vous fournir ce graphique !")
+st.write("Le graphique ci-dessous va vous permettre de visualiser l'impact de vos loisirs sur l'émission de CO2 mondial si jamais vous décidez de les interdir complètement (ou si vous les doublez, petits filous !). Nous tenons à précisez que nous nous basons sur de vraies données pour vous fournir ce graphique !")
 
 
 ### GRAPHIQUE SUR LA MODIFICATION DES PLAISIRS
