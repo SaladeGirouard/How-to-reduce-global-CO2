@@ -36,10 +36,13 @@ st.set_page_config(
         'Get Help':  None,
          'Report a bug': None,
          'About': "# Bienvenue ! # \n"
-         "Xavier, Charles et Périnne vous présentent leur analyse sur les emissions de CO2 au niveau mondial \n"
-         "Nous nous sommes interessés aux habitudes que les humains raffolent et regarder dans quelle mesure\n"
-         "la suppression de cette habitude impactait les emissions par rapport aux objectifs fixés en 2030.\n"
-         "Have Fun! \n"
+         "Xavier, Charles et Périnne vous présentent leur analyse sur les émissions de CO2 au niveau mondial réalisé lors d'un Hackathon.\n"
+       "Nous disposions d'une trentaine d'heures pour réaliser une analyse suivant la thématique suivante : comment, au niveau mondial, nous situons nous \n"
+       "par rapport à l'objectif de neutralité carbone de 2050.\n"
+       "Avant de parler de 2050, nous avons souhaité faire un constat à un horizon plus court, l'objectif de 2030. \n"
+       "Pour cela, nous nous sommes donc intéressés aux populations et aux habitudes de consommations dans les émissions de CO2. \n"
+         "Et Enfin dans quelle mesure la suppression des habitudes impactait les émissions par rapport aux objectifs fixés en 2030.\n"
+         "Bonne découverte! \n"
          "Etudiants et étudiantes à la Wild Code School de Nantes \n"
      }
  )
@@ -74,7 +77,7 @@ with st.container():
 
     col1.write("L'objectif de baisse de CO2 mondial fourni par l'ONU pour l'année 2030 est d'environ **15 milliards de tonnes par an**, comme vous pouvez le constater nous sommes légèrement au-dessus rien de bien inquiètant 😊 (sarcasme).")
     col1.write("\n")
-    col1.write("Il y a une grosse montée de l'émission de CO2 dans le monde depuis l'après-guerre, mais c'est devenu incontrôlable... Aujourd'hui en 2022, à l'heure où est créée cette interface, nous n'avons pas de clés pour inverser de cette tendance, mais nous allons quand même tenter de voir ensemble ce qui pourrait être fait")
+    col1.write("Il y a une grosse montée des émissions dans le monde depuis l'après-guerre, mais c'est devenu incontrôlable... Aujourd'hui en 2022, à l'heure où est créée cette interface, nous n'avons pas de clés pour inverser cette tendance, mais nous allons quand même tenter de voir ensemble ce qui pourrait l'impact.")
     col2.image(
             "https://media.giphy.com/media/l3vR5UgInxQW8wK6k/giphy.gif",
             use_column_width="auto")
@@ -117,7 +120,7 @@ with col2:
     st.write("Le graphique ci-contre nous montre la belle performance du charbon,\n"
              "qui non seulement est la source de CO2 la plus ancienne mais toujours\n"
              "la plus forte aujourd'hui.\n"
-             "Le pétrole n'est pas en reste, qui depuis 1950 ne fait que monter et reste à une belle place de second.")
+             "Le pétrole n'est pas en reste, depuis 1950 il ne cesse de progresser et reste à une belle place de second.")
     st.write("\n")
     st.write("Ce qu'on vous propose c'est de jouer avec les différentes industries ci-bas.\n"
              "Nous vous laissons déterminer sur quelles industries nous pouvons taper pour\n"
@@ -251,7 +254,7 @@ st.write("                                                   ")
 st.subheader("Réduire nos loisirs pour réduire l'émission de CO2 ?")
 
 ### TEXTE POUR PRESENTER LE GRAPHIQUE
-st.write("Le graphique ci-dessous va vous permettre de visualiser l'impact de vos loisirs sur l'émission de CO2 mondial si jamais vous décidez de les interdir complètement (ou si vous les doublez, petits filous !). Nous tenons à précisez que nous nous basons sur de vraies données pour vous fournir ce graphique !")
+st.write("Le graphique ci-dessous va vous permettre de visualiser l'impact de vos loisirs sur l'émission de CO2 mondial si jamais vous décidez de les interdir complètement (ou si vous les doublez, petits filous !). Nous tenons à préciser que nous nous basons sur de vraies données pour vous fournir ce graphique !")
 
 
 ### GRAPHIQUE SUR LA MODIFICATION DES PLAISIRS
@@ -290,7 +293,11 @@ with col1:
 
     
 ### LE MOT DE LA FIN    
-st.write("Vous êtes surpris ? Nous aussi. Surtout pour l'impact réél de l'avion, lorsque l'on a rabaché depuis tout jeune que c'est très mauvais pour la planète. On se dit qu'il faudrait peut-être voir le problème de manière plus globale et arrêter de faire culpabiliser les gens...")
+st.write("Vous êtes surpris ? Nous aussi. L'impact réél de l'avion a été notre **grande** surprise. Supprimer le transport aérien aurait un impact très faible par rapport à d'autres actions qui pourraient être entreprises. Sachant qu'il s'agit d'un argument souvent utilisé
+          "pour culpabiliser les amoureux du voyage, il faut définitivement mettre celui-ci en perspective.\n"
+         "Pour terminer, comme vous pouvez le constater nous ne proposons pas de solution miracle.\n"
+         "En effet, les émissions de CO2 sont un problème complexe assujeti à plusieurs variables. Cependant, nous espérons vous avoir diverti avec cette analyse et restons disponibles si vous avez des questions."
+         "Pour information, toutes les données sont issues du site : https://ourworldindata.org/ que nous vous recommandons de visiter !\n")
 
 
 
