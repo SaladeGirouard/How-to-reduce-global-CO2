@@ -293,7 +293,7 @@ with col1:
 
     
 ### LE MOT DE LA FIN    
-st.write("Vous êtes surpris ? Nous aussi. L'impact réél de l'avion a été notre **grande** surprise. Supprimer le transport aérien aurait un impact très faible par rapport à d'autres actions qui pourraient être entreprises. Sachant qu'il s'agit d'un argument souvent utilisé
+st.write("Vous êtes surpris ? Nous aussi. L'impact réél de l'avion a été notre **grande** surprise. Supprimer le transport aérien aurait un impact très faible par rapport à d'autres actions qui pourraient être entreprises. Sachant qu'il s'agit d'un argument souvent utilisé"
           "pour culpabiliser les amoureux du voyage, il faut définitivement mettre celui-ci en perspective.\n"
          "Pour terminer, comme vous pouvez le constater nous ne proposons pas de solution miracle.\n"
          "En effet, les émissions de CO2 sont un problème complexe assujeti à plusieurs variables. Cependant, nous espérons vous avoir diverti avec cette analyse et restons disponibles si vous avez des questions."
