@@ -1,4 +1,4 @@
-# hackathon1
+# How to reduce global CO2 emissions ?
 
 ### About this project
 
