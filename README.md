@@ -16,4 +16,4 @@ https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
 
 ### Deployment
 
-[Streamlit link](https://saladegirouard-hackhaton1-hackathon1-dk338t.streamlitapp.com)
+[Streamlit link](https://how-to-reduce-global-co2-vr9aqynmsus5rj7yr9qnen.streamlitapp.com)
